@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/facturaPVPC/static/js/main.fd34f7d3.js",
+    "static/media/FacturaPVPC.wasm": "/facturaPVPC/static/media/FacturaPVPC.63bccd16b8c862f4c943.wasm",
+    "index.html": "/facturaPVPC/index.html",
+    "main.fd34f7d3.js.map": "/facturaPVPC/static/js/main.fd34f7d3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fd34f7d3.js"
+  ]
+}
